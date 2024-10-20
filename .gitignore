@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.png
+*.docx
+*.pdf
+*.sql
+*.bin
+orig*
